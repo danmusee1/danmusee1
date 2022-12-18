@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dan Musee #YoungCEO</h1>
 <h3 align="center">A passionate Software Engineer from Nairobi, Kenya</h3>
 <img align="right" alt="codding" width="300" height="300" src="https://cdn.dribbble.com/users/44515/screenshots/3223431/hoc-dribbble-svg.gif"/>
+<br/>
 
 - 🔭 I’m currently working on **a project progress management system**
 
